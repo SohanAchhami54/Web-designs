@@ -1,0 +1,37 @@
+.box
+{
+    width:300px;
+    height:200px;
+    background-color: red;
+}
+
+
+
+
+
+.circle
+{
+    width:300px;
+    height:300px;
+    border-radius: 50%;
+    background-color: yellow;
+}
+
+.simple-box
+{
+    width:400px;
+    height:400px;
+    background-color: red;
+    border-radius: 50%;
+    margin-left:100px;
+    margin-top:100px;
+    
+
+}
+
+.circle h1
+{
+     padding-left: 70px;
+     padding-top:60px;
+     
+}

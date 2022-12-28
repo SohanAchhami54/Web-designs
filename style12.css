@@ -1,0 +1,30 @@
+.ncell
+{
+    width:280px;
+    height:150px;
+    background-color: purple;
+    margin-left:50px;
+    margin-top:100px;
+    padding-top: 40px;
+    padding-left:45px;
+    padding-bottom:5x;
+    
+    
+}
+.white
+{
+    width:230px;
+    height:110px;
+     background-color:white;
+    border-radius:0  30px 0 30px; 
+    
+    
+}
+
+.white img
+{
+    width:185px;
+    height:95px;
+    margin-left:20px;
+    margin-top:5px;
+}
