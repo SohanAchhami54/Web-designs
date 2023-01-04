@@ -1,0 +1,218 @@
+.card-container
+{
+    display:inline-block;
+    width:1340px;
+    height:600px;
+    border:black 7px solid;
+    margin-top:20px;
+    margin-left:20px;
+    background-color: gray;
+    padding-left:90px;
+    padding-top:100px;
+    
+}
+
+div
+{
+    float:left;
+    margin:10px;
+}
+
+
+/* box information */
+
+.card-container .card-box
+{
+    width:290px;
+    height:420px;
+    background-color:seashell;
+    border-radius:10px;
+}
+ 
+.card-container .card-box .card-image
+{
+    width:270px;
+    height:200px;
+    background:url('Imagefolder/lambor5\ \(1\).jpg');
+} 
+
+.card-container .card-box .card-title h2
+{
+    font-size:32px;
+    color:blue;
+    margin-left:90px;     
+}
+
+
+
+.card-container .card-box .card-title h3
+{
+    font-size:30px;
+    color:rebeccapurple;;
+    margin-left:30px;     
+    margin-top:55px;
+}
+
+.card-container .card-box:hover
+{
+    transition: all linear 0.5s;
+    background-color:rgba(205, 255, 247, 0.922);
+    box-shadow:5px 5px 5px 5px red;
+
+}
+
+
+
+
+
+
+/* box 1 information */
+
+.card-container .card-box1
+{
+    width:290px;
+    height:420px;
+    background-color:seashell;
+    border-radius:10px;
+}
+
+.card-container .card-box1 .card-image1
+{
+    width:270px;
+    height:165px;
+    background:url('Imagefolder/bugati.jfif');
+}
+
+.card-container .card-box1 .card-title1 h2
+{
+    font-size:35px;
+    color:chocolate;
+    margin-left:70px;
+    margin-top:40px;
+}
+
+.card-container .card-box1 .card-title1 h3
+{
+    font-size:30px;
+    color:crimson;
+    margin-top:13px;
+    margin-left:28px;
+}
+
+
+.card-container .card-box1:hover
+{
+    transition:all linear 0.5s;
+    background-color:gold;
+    box-shadow:5px 5px 5px 5px wheat;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* box 2 information */
+
+.card-container .card-box2
+{
+    width:290px;
+    height:420px;
+    background-color:seashell;
+    border-radius:10px;
+}
+
+
+.card-container .card-box2 .card-image2
+{
+    width:270px;
+    height:170px;
+    background:url('Imagefolder/lambor6.jpg');
+}
+
+
+.card-container .card-box2 .card-title2 h2
+{
+    font-size:30px;
+    color:turquoise;
+    margin-left:60px;
+    margin-top:37px;
+}
+
+.card-container .card-box2 .card-title2 h3
+{
+    font-size:30px;
+    color:tomato;
+    margin-top:17px;
+    margin-left:28px;
+}
+
+
+.card-container .card-box2:hover
+{
+    transition:all linear 0.5s;
+    background-color:crimson;
+    box-shadow:5px 5px 5px 5px oldlace;
+}
+
+
+
+
+
+
+
+
+
+
+/* box 3 information */
+
+.card-container .card-box3
+{
+    width:290px;
+    height:420px;
+    background-color:seashell;
+    border-radius:10px;
+}
+
+
+.card-container .card-box3 .card-image3
+{
+    width:270px;
+    height:170px;
+    background:url('Imagefolder/lambor\ \(2\).jpg');
+}
+
+
+
+.card-container .card-box3 .card-title3 h2
+{
+    font-size:35px;
+    color:brown;
+    margin-left:25px;
+    margin-top:30px;
+}
+
+
+.card-container .card-box3 .card-title3 h3
+{
+    font-size:30px;
+    color:rgb(234, 127, 255);
+    margin-top:15px;
+    margin-left:25px;
+}
+
+
+.card-container .card-box3:hover
+{
+    transition:all linear 0.5s;
+    background-image:linear-gradient(wheat,yellow,crimson,blue);
+    box-shadow:5px 5px 10px 10px aqua;
+}
+
+
+

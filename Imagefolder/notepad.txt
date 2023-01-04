@@ -1,0 +1,11 @@
+lg:large device(laptop/desktop)
+1200px;
+md:medium device (laptop/desktop)
+992px to 1199px;
+
+sm:small device (tablet)
+768px to 991px;
+
+xs: extra small devices
+366px to 767px;
+
